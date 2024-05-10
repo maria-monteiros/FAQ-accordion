@@ -17,8 +17,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Live Site URL: https://social-proof-section-cha-fem.netlify.app/
-
+- Live Site URL: https://faq-accordion-challengefm.netlify.app/
 
 ## Author
 
